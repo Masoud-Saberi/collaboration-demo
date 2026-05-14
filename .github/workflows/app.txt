@@ -1,3 +1,4 @@
 Collaboration Demo Project
+conflict-a
 Version 2.0 merged from A and B
 Feature: Add new feature description for collaboration practice
