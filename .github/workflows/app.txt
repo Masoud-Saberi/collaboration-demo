@@ -1,3 +1,3 @@
 Collaboration Demo Project
-Version 2.0 from branch A
+Version 2.0 merged from A and B
 Feature: Add new feature description for collaboration practice
